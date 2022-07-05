@@ -14,6 +14,8 @@ Package中包含的内容：
 └── package                           
     ├── variable
     ├── function
+    ├── interface
+    |   └─── method
     └── struct
         ├── variable
         └── method
